@@ -1,0 +1,1 @@
+A php website created in junction with html and css. Divided into 4 sections with integrated navigation from section to section, with header and footer included on all sections.
